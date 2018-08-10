@@ -1,0 +1,17 @@
+{
+  "name": "Algorithm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/"
+  },
+  "dependencies": {
+    "jest": "^23.4.2",
+    "ramda": "^0.25.0"
+  }
+}
